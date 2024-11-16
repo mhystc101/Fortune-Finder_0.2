@@ -18,35 +18,49 @@ Python Project - 2nd Version
 * Leaderboard System
 
 <br>
-**Whats differnt from version 0.1**
+
+🆕 Whats differnt from version 0.1
 -
-Added 
-**Why?**
+* Added five new games
+* Enhanced gameplay mechanics
+* Added over 1,000 new lines of code
+<br>
+
+❓ **Why?**
 -
 <br>
 
-I initially started this as a mini-project with the goal of creating 1-2 games to deepen my understanding of coding. What was meant to be a learning experience quickly grew into something much more significant. As I encountered new challenges and learned more, the project quickly snowballed  to around 2,000 lines of code, and I expect it to reach 2,200 to 2,500 lines once I’ve worked through some bugs.
+I initially started this as a mini-project with the goal of creating 1-2 games to deepen my understanding of coding specifically Python as I'm a beginner. What was meant to be a learning experience quickly grew into something much more significant. As I encountered new challenges and learned more, the project quickly snowballed to around 2,000 lines of code, and I expect it to reach 2,200 to 2,500 lines once I’ve worked through some bugs.
 
 <br>
 
-**How to Run**
+📚**What did I learn?**
+-
+
+* As this was my first major project, I learned the importance of writing clear comments and conducting thorough research (i.e., good Googling skills).
+* Gained a deeper understanding of key Python modules, including os, csv, numpy, sys, threading, and pandas.
+* Expanded my knowledge of data structures, algorithms(Not advanced time complexity yet tho), and overall python functions.
+
+<br>
+
+🚀**How to Run**
 -
 1. Download the build file
 2. Run dist
 3. Run Fortune_Finder_.02.exe
 
-**IF THIS DOESN'T WORK**
+⚠️ **IF THIS DOESN'T WORK**
 -
 It is likely that the issue stems from either the CSV file or recent compatibility problems with numpy and pandas in Visual Studio Code (VSC) when i built the file. For context, I have been developing this project in the sandbox environment on CodeHS. However, when I transfer the code into VSC, the IDE fails to recognize the numpy and pandas modules, despite both being installed via pip.
 <br>
 <br>
-How to fix
+🛠️ How to fix
 <br>
-1. Copy and past source code into any code editor (Python 3)
-2. Add a file named "bank.csv"  
-3. Add these three columns: "name,credits,net profit/loss" into the csv
-4. Add one row under with anything, ex: "example,123,0"
-5. Save and run file.
+1. Copy and paste the source code into any Python 3-compatible code editor.
+2. Add a file named bank.csv in the same directory.
+3. Create the following columns in the CSV file: "name, credits, net profit/loss".
+4. Add a row with example values, such as "example, 123, 0".
+5. Save the file and run the code.
 
 
 
