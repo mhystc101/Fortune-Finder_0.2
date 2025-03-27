@@ -48,7 +48,8 @@ I initially started this as a mini-project with the goal of creating 1-2 games t
 1. Download the build file
 2. Run dist
 3. Run Fortune_Finder_.02.exe
-
+![image](https://github.com/user-attachments/assets/872cc212-0179-43f4-8bcc-ae521d3557ef)
+   (Initial Screen)
 ⚠️ **IF THIS DOESN'T WORK**
 -
 It is likely that the issue stems from either the CSV file or recent compatibility problems with numpy and pandas in Visual Studio Code (VSC) when i built the file. For context, I have been developing this project in the sandbox environment on CodeHS. However, when I transfer the code into VSC, the IDE fails to recognize the numpy and pandas modules, despite both being installed via pip.
